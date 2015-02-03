@@ -6,7 +6,7 @@ type: to-do
 ---
 
 ### River Classes
-YO
+
 You've learned about creating classes to imitate objects in the real world. Let's put that knowledge to the test by making a `River` class. 
 
 <img src="https://after-school-assets.s3.amazonaws.com/river.jpg">
@@ -30,5 +30,3 @@ Create the `River` class based on this data and then create instances of the cla
 + The Euphrates
 
 The Amazon and the Yangtze should flood. The Euphrates should dry up.
-
-YO
