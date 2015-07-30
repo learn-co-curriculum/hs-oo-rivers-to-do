@@ -1,9 +1,4 @@
----
-tags: oo, kids, oop, object orientation, to-do
-languages: ruby
-level: 1
-type: to-do
----
+
 
 ### River Classes
 
