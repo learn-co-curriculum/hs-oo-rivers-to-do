@@ -25,3 +25,5 @@ Create the `River` class based on this data and then create instances of the cla
 + The Euphrates
 
 The Amazon and the Yangtze should flood. The Euphrates should dry up.
+
+<a href='https://learn.co/lessons/hs-oo-rivers-to-do' data-visibility='hidden'>View this lesson on Learn.co</a>
